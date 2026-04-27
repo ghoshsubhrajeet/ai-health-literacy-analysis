@@ -1,0 +1,166 @@
+
+import pandas as pd
+import numpy as np
+import re
+from collections import Counter
+
+import nltk
+nltk.download('stopwords')
+nltk.download('wordnet')
+
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
+
+from gensim import corpora
+from gensim.models import LdaModel
+
+# Load dataset
+df = pd.read_csv("consolidated_with_pubmed_keywords.csv")
+
+print("Total number of articles:", len(df))
+
+df.head()
+
+print("\nArticles per year:")
+print(df["pub_year"].value_counts().sort_index())
+
+# Text preprocessing
+
+stop_words = set(stopwords.words('english'))
+lemmatizer = WordNetLemmatizer()
+
+def clean_text(text):
+
+    if pd.isna(text):
+        return []
+    
+    text = text.lower()
+    text = re.sub(r'[^a-zA-Z\s]', ' ', text)
+    
+    tokens = text.split()
+    
+    tokens = [
+        lemmatizer.lemmatize(word)
+        for word in tokens
+        if word not in stop_words and len(word) > 2
+    ]
+    
+    return tokens
+
+df["cleaned"] = df["abstract"].apply(clean_text)
+
+print("Example cleaned abstract:")
+print(df["cleaned"].iloc[0])
+
+dictionary = corpora.Dictionary(df["cleaned"])
+
+# Improve topic quality
+dictionary.filter_extremes(no_below=5, no_above=0.5)
+
+corpus = [dictionary.doc2bow(text) for text in df["cleaned"]]
+
+print("Dictionary size:", len(dictionary))
+print("Corpus size:", len(corpus))
+
+num_topics =  
+
+lda_model = LdaModel(
+    corpus=corpus,
+    id2word=dictionary,
+    num_topics=num_topics,
+    passes=20,
+    random_state=42
+)
+
+print("LDA model trained successfully.")
+
+print("\nTopics and top words:")
+
+for topic_id in range(num_topics):
+    
+    print("\n==========================")
+    print(f"Topic {topic_id}")
+    
+    print(lda_model.print_topic(topic_id, topn=10))
+
+def get_top_docs_for_topic(topic_id, top_n=2):
+
+    topic_scores = []
+
+    for i, row in df.iterrows():
+
+        bow = dictionary.doc2bow(row["cleaned"])
+
+        topics = lda_model.get_document_topics(bow)
+
+        score = 0
+        
+        for t, prob in topics:
+            if t == topic_id:
+                score = prob
+
+        topic_scores.append(score)
+
+    df_temp = df.copy()
+    
+    df_temp["topic_score"] = topic_scores
+
+    return df_temp.sort_values("topic_score", ascending=False)[
+        ["title", "authors", "pub_year", "journal"]
+    ].head(top_n)
+
+
+print("\nTop articles per topic:")
+
+for topic_id in range(num_topics):
+
+    print("\n==========================")
+    print(f"TOPIC {topic_id}")
+    
+    print("\nTop Words:")
+    print(lda_model.print_topic(topic_id))
+    
+    print("\nTop Articles:")
+    print(get_top_docs_for_topic(topic_id))
+
+
+keyword_counter = Counter()
+
+# Author keywords
+for keywords in df["keywords"]:
+    
+    if pd.notna(keywords):
+        
+        words = [
+            k.strip().lower()
+            for k in str(keywords).split("|")
+        ]
+        
+        keyword_counter.update(words)
+
+# PubMed keywords
+for keywords in df["pubmed_official_keywords"]:
+    
+    if pd.notna(keywords):
+        
+        words = [
+            k.strip().lower()
+            for k in str(keywords).split("|")
+        ]
+        
+        keyword_counter.update(words)
+
+
+print("\nTop 20 most frequent keywords:")
+
+for keyword, freq in keyword_counter.most_common(20):
+    
+    print(f"{keyword}: {freq}")
+
+
+
+
+
+
+
+

@@ -1,0 +1,83 @@
+Recent Cluster Activity (2024-2026)
+=====================================
+
+
+===== AI Systems & Genomic Trust =====
+Stiel HEM, Virtanen L, Bakker MM, Heponiemi T, Kainiemi E, Kaihlanen AM. (2026). The potential of digital health technologies in saving nursing resources: A scoping review.. International journal of nursing studies.
+Phanphairoj K, Wisesrith W, Chumwichan S. (2026). Mapping research trends and competency domains in nursing-related digital and artificial intelligence technologies: A bibliometric analysis.. International journal of nursing sciences.
+
+===== Brain Mapping & Mental Health Models =====
+Qiao X, Yang M, Liu H, Ye Z, Sun B. (2026). Gut-brain axis-mediated mechanisms and immune regulatory pathways in vascular dementia: Insights into microbiota-derived metabolites and novel therapeutic strategies.. Behavioural brain research.
+Li X, Ng L, Liu C, Qin L, Xiao P, Liu C, Liu Y, Zhang Q, Huang W, Zhou Y, Liu W. (2025). Immunomodulatory Mechanisms of Rehmanniae Radix Praeparata-Achyranthes Root-Chinese Angelica Root Combination in Nontraumatic Osteonecrosis of the Femoral Head: A Comprehensive Network Pharmacology and Molecular Docking Study Focusing on Immunological Pathways.. Mediators of inflammation.
+
+===== Clinical ML & Predictive Modeling =====
+Abrams MP, Merchant RM, Meisel ZF, Pelullo AP, Chandra Guntuku S, Agarwal AK. (2023). Association Between Online Reviews of Substance Use Disorder Treatment Facilities and Drug-Induced Mortality Rates: Cross-Sectional Analysis.. JMIR AI.
+Burns R, Campos-Matos I, Harron K, Aldridge RW. (2022). COVID-19 vaccination uptake for half a million non-EU migrants and refugees in England: a linked retrospective population-based cohort study.. Lancet (London, England).
+
+===== Data Privacy & Federated Learning =====
+Podschun AN, Betzel RF, Braun U, Markett S. (2026). Exploring the Role of the Rich Club in Network Control of Neurocognitive States.. Human brain mapping.
+Khuntia A, Buciuman MO, Fanning J, Stolicyn A, Vetter C, Armio RL, From T, Goffi F, Hahn L, Kaufmann T, Laurikainen H, Maggioni E, Martinez-Zalacain I, Ruef A, Dong MS, Schwarz E, Squarcina L, Andreassen O, Bellani M, Brambilla P, Haren NV, Hietala J, Lawrie SM, Soriano-Mas C, Whalley H, Taquet M, Meisenzahl E, Falkai P, Wiegand A, Koutsouleris N, ECNP Neuroimaging Network. (2024). Towards collaborative data science in mental health research: The ECNP neuroimaging network accessible data repository.. Neuroscience applied.
+
+===== Digital Health & Nursing Care =====
+Vijayasimha M, Srikanth M. (2026). From PrEP-Related Mistrust to Trusted Prevention Ecosystems: Implementation Priorities Following Simon et al. and Jaiswal et al.. AIDS and behavior.
+Yu C, Bi Y, Jia J, Liu S, Lv K. (2025). Research on the influencing factors and pathways of user health information disclosure behavior on medical and health platforms: based on PLS-SEM, NCA, and fsQCA analysis.. Frontiers in public health.
+
+===== Digital Interventions & YouTube Content =====
+O'Laughlin KN, Klabbers RE, Ebna Mannan I, Gentile NL, Geyer RE, Zheng Z, Yu H, Li SX, Chan KCG, Spatz ES, Wang RC, L'Hommedieu M, Weinstein RA, Plumb ID, Gottlieb M, Huebinger RM, Hagen M, Elmore JG, Hill MJ, Kelly M, McDonald S, Rising KL, Rodriguez RM, Venkatesh A, Idris AH, Santangelo M, Koo K, Saydah S, Nichol G, Stephens KA, INSPIRE Group. (2023). Ethnic and racial differences in self-reported symptoms, health status, activity level, and missed work at 3 and 6 months following SARS-CoV-2 infection.. Frontiers in public health.
+Walker EC, Vanea C, Meir K, Hochner-Celnikier D, Hochner H, Laisk T, Lindgren C, Glastonbury CA, Ernst LM, Nellaker C. (2025). Biologically Inspired Digital Histology for Deep Phenotyping of Placental Composition Changes Across Major Lesion Types.. bioRxiv : the preprint server for biology.
+
+===== Digital Media & Elderly Wellness =====
+Valentine L, Nicholas J, Sorenson R, Chen NA, McEnery C, Louis S, Cross S, Mangelsdorf SN, O'Sullivan S, Wren TW, Bucci S, Gleeson J, Bendall S, Alvarez-Jimenez M. (2026). Sustained engagement with a digital youth mental health platform: A mixed-methods study.. Internet interventions.
+Zhang H, Shao Q, Uddin I, Zhang X. (2026). Do Environmental Degradation, ICT, Health Expenditure, and Institutional Quality Affect Life Expectancy?. American journal of men's health.
+
+===== Exercise Physiology & Readability =====
+Kumar MB, Mulongo CM, Pincerato L, De Vita MV, Saidi S, Gakii Y, Morino G, Kumar P. (2024). Task sharing for increasing access to obstetric ultrasonography: a formative qualitative study of nurse-led scanning with telemedicine review in Kenya.. Oxford open digital health.
+Velazquez-Pimentel D, Pancholi J, Jenkins P, Cinti N, Stephanou M, Kotecha D, White A, Ashraf S, Llewellyn O, Vigneswaran G, Shiwani H, Zhong J, Alcorn D, Breen DJ, Haslam P, Hickson G, Jaffer O, Kennedy P, Littler P, Peddu P, Railton N, Wah TM. (2025). IO1-UK: a cross-sectional study to re-evaluate the provision of interventional oncology services across the United Kingdom.. Clinical radiology.
+
+===== HIV & Spatial Epidemiology =====
+Mamandipoor B, Bruno RR, Wernly B, Wolff G, Fjølner J, Artigas A, Pinto BB, Schefold JC, Kelm M, Beil M, Sigal S, Leaver S, De Lange DW, Guidet B, Flaatten H, Szczeklik W, Jung C, Osmani V. (2022). COVID-19 machine learning model predicts outcomes in older patients from various European countries, between pandemic waves, and in a cohort of Asian, African, and American patients.. PLOS digital health.
+Kendale S, Bishara A, Burns M, Solomon S, Corriere M, Mathis M. (2023). Machine Learning for the Prediction of Procedural Case Durations Developed Using a Large Multicenter Database: Algorithm Development and Validation Study.. JMIR AI.
+
+===== Healthcare Access & Radiology =====
+Foeldvari I, Klotsche J, Kasapcopur O, Adrovic A, Terreri MT, Sakamoto AP, Stanevicha V, Anton J, Feldman BM, Sztajnbok F, Khubchandani R, Alexeeva E, Katsicas M, Sawhney S, Smith V, Appenzeller S, Avcin T, Kostik M, Lehman T, Marrani E, Schonenberg-Meinema D, Sifuentes-Giraldo WA, Vasquez-Canizares N, Janarthanan M, Moll M, Nemcova D, Patwardhan A, Santos MJ, Battagliotti C, Berntson L, Bica B, Brunner J, Cimaz R, Costa-Reis P, Eleftheriou D, Harel L, Horneff G, Johnson SR, Kaiser D, Kallinich T, Lazarevic D, Minden K, Nielsen S, Nuruzzaman F, Opsahl Hetlevik S, Uziel Y, Helmus N, Torok KS. (2022). Gender differences in juvenile systemic sclerosis patients: Results from the international juvenile scleroderma inception cohort.. Journal of scleroderma and related disorders.
+Economos H, MacIsaac RJ. (2025). Cardio-kidney-metabolic protective effects of semaglutide across the spectrum of chronic kidney disease.. World journal of nephrology.
+
+===== Kidney & Viral Genomics =====
+Srinivasan S, Ai X, Lo TWS, Gilson A, Zou M, Zou K, Kim H, Yang M, Pushpanathan K, Yew SME, Loke WT, Goh JHL, Chen Y, Kong Y, Fu EY, Ong M, Nwanyanwu K, Dave A, Li KZ, Sun CH, Chia M, Yang GD, Wong WM, Chen DZ, Liu D, Singer M, Antaki F, Del Priore LV, Jonas JB, Adelman R, Chen Q, Tham YC. (2026). BEnchmarking Large Language Models for Ophthalmology (BELO): An Expert-Curated Data Set and Evaluation Framework for Knowledge and Reasoning.. Ophthalmology science.
+Paprica PA, Crichlow M, Maillet DC, Kesselring S, Pow C, Scarnecchia TP, Schull MJ, Cartagena RG, Cumyn A, Dostmohammad S, Elliston KO, Greiver M, Nelson AH, Hill SL, Isaranuwatchai W, Loukipoudis E, McDonald JT, McLaughlin JR, Rabinowitz A, Razak F, Verhulst SG, Verma AA, Victor JC, Young A, Yu J, McGrail K. (2023). Essential requirements for the governance and management of data trusts, data repositories, and other data collaborations.. International journal of population data science.
+
+===== LLMs (ChatGPT) in Medical Learning =====
+Eneslätt M, Dupont C, Savolainen E, Fjällström P, Goliath I. (2026). Cocreation of a Digital Tool for Proactive End-of-Life Communication: Protocol for a Participatory Action Research Project.. JMIR research protocols.
+MacLellan J, McNiven A, Kenyon S. (2023). Provision of interpreting support for cross-cultural communication in UK maternity services: A Freedom of Information request.. International journal of nursing studies advances.
+
+===== Molecular & Immune Mechanisms =====
+Zhang C, Sui W, Jiang W, Shen Y, Huang Z, Yan R, Yi J, Zhang J, Zhang C, Zhuang Y, Gong X. (2026). The Effects of Digital Health Interventions for Family Members in Intensive Care Units: Systematic Review and Meta-Analysis of Randomized Controlled Trials.. Journal of medical Internet research.
+Trost C, Crevenna R, Heisinger J, Popp D, Perl A, Marchard EM, Heisinger S. (2026). Sarcopenia and Nutrition on YouTube: A Content Quality and Reliability Assessment.. Nutrients.
+
+===== Oncology & Imaging Trials =====
+Almeida JG, Dias D, Silva-Teixeira R, Carrington M, Fonseca P, Oliveira M, Gonçalves H, Primo J, Fontes-Carvalho R, Azevedo L, Barra S, Martínez JP, Almeida R. (2025). Continuous smartwatch monitoring after atrial fibrillation ablation: feasibility of burden estimation and association with quality of life.. Frontiers in cardiovascular medicine.
+Delalić S, Kaca M, Alimsijah P, Weber N, Selmanović E, Galindez M, Marquez G, Balmaceda F, Delalić E, Bekkaye I, Bakija L, Kurtagić-Pašalić M, Agić E, Anderson D, Wagers A, Florea M. (2025). Smart Lids for deep multi-animal phenotyping in standard home cages.. Frontiers in behavioral neuroscience.
+
+===== Patient Trust & Vaccination =====
+Smith DL, Kelly SW, Mermelstein RJ, Karnik NS. (2026). A United States National Assessment of Pediatric Emergency and Inpatient Encounters Before, During, and Following the COVID-19 Pandemic: Mental and Behavioral Health Diagnoses.. JAACAP open.
+Parmar P, Saiyad SS, Chavda G, Ekambaram G, Rajput JPS. (2025). Evaluation of a Short Message Service (SMS)-Based Health Education Program ("Active Moms") on Antenatal Knowledge and Health Attitudes Among Primigravida Women in South Gujarat: A One-Group Pretest-Posttest Study.. Cureus.
+
+===== Pediatric Health & SMS Literacy =====
+Samad A, Muazzam A, Alam AMMN, Kim S, Hwang YH, Joo ST. (2025). A Comprehensive Review of Technological Advances in Meat Safety, Quality, and Sustainability for Public Health.. Foods (Basel, Switzerland).
+Ayday E, Vaidya J, Jiang X, Telenti A. (2023). Ensuring Trust in Genomics Research.. ... IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications : (TPS-ISA ...). IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications.
+
+===== Public Health & Social Interventions =====
+Waghray NJ, Rajasundaram A, Johnson WMS, Waghray A. (2023). Chatbot in anatomy learning and recapitulation: Prototype and review.. Medical journal, Armed Forces India.
+Zakkir S, Dadhich K, K V B, Bukkasamudram LN, Santhosh AK, Thangaraj S, Kulkarni PP. (2025). Reliability of AI Tools in Generating Patient Education Brochures for Bariatric Surgery: An Observational Study.. Cureus.
+
+===== Qualitative Data & Implementation =====
+Dergaa I, Saad HB, El Omri A, Glenn JM, Clark CCT, Washif JA, Guelmami N, Hammouda O, Al-Horani RA, Reynoso-Sánchez LF, Romdhani M, Paineiras-Domingos LL, Vancini RL, Taheri M, Mataruna-Dos-Santos LJ, Trabelsi K, Chtourou H, Zghibi M, Eken Ö, Swed S, Aissa MB, Shawki HH, El-Seedi HR, Mujika I, Seiler S, Zmijewski P, Pyne DB, Knechtle B, Asif IM, Drezner JA, Sandbakk Ø, Chamari K. (2023). Using artificial intelligence for exercise prescription in personalised health promotion: A critical evaluation of OpenAI's GPT-4 model.. Biology of sport.
+Slutsky-Ganesh AB, Chaput M, Hogg JA, Zuleger TM, Kim H, Diekfuss JA, Anand M, Schille A, DiCesare C, Warren SM, Riehm CD, Schnittjer AJ, Farraye BT, Pierce S, Roe JW, Bennison J, Barber Foss KD, Simon JE, Riley MA, Myer GD, Grooms DR. (2026). The Effects of Neuromuscular Training and Additive Visual Biofeedback on Landing Biomechanics and Sensorimotor Brain Activity in Young Female Athletes.. Medicine and science in sports and exercise.
+
+===== Smartwatch & Cardiovascular Monitoring =====
+Borchert GA, Charbel Issa P, Xue K, MacLaren RE, Cehajic-Kapetanovic J, Downes SM, De Silva SR. (2026). Geographic atrophy in age-related macular degeneration: phenotypic characterisation for clinical trial consideration.. Graefe's archive for clinical and experimental ophthalmology = Albrecht von Graefes Archiv fur klinische und experimentelle Ophthalmologie.
+Kovačević L, Chen W, Barnett H, Jaki T, Mozgunov P. (2024). Bayesian model averaging for partial ordering continual reassessment methods.. Biostatistics (Oxford, England).
+
+===== mHealth & LLM Governance =====
+Srivenkateswaran C, Jaya Mabel Rani A, Senthil Kumaran R, Vinston Raja R. (2024). Securing healthcare data: A federated learning framework with hybrid encryption in cluster environments.. Technology and health care : official journal of the European Society for Engineering and Medicine.
+Jena S, Barik RC, Padhan S. (2025). Hyperledger Fabric-Powered Digital Identity Scheme: Transforming CIA-Triad Security in IoMT Integrated Healthcare Eco-System.. Blockchain in healthcare today.

@@ -1,0 +1,80 @@
+
+===== Public + Covid + Information =====
+OECD. (2023). Government at a Glance 2023. Government at a glance.
+Alessandro Lovari. (2020). Spreading (Dis)Trust: Covid-19 Misinformation and Government Intervention in Italy. Media and Communication.
+
+===== Drug + Research + Human =====
+Samantha Cruz Rivera, Xiaoxuan Liu, An‐Wen Chan, Alastair K. Denniston, Melanie Calvert. (2020). Guidelines for clinical trial protocols for interventions involving artificial intelligence: the SPIRIT-AI Extension. BMJ.
+Xiaoxuan Liu, Samantha Cruz Rivera, David Moher, Melanie Calvert, Alastair K. Denniston. (2020). Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI Extension. BMJ.
+
+===== Covid + Pandemic + Online =====
+Laura Marciano, Michelle Ostroumova, Peter J. Schulz, Anne-Linda Camerini. (2022). Digital Media Use and Adolescents' Mental Health During the Covid-19 Pandemic: A Systematic Review and Meta-Analysis. Frontiers in Public Health.
+Minh Hao Nguyen, Jonathan Gruber, Jaelle Fuchs, Will Marler, Amanda Hunsaker, Eszter Hargittai. (2020). Changes in Digital Communication During the COVID-19 Global Pandemic: Implications for Digital Inequality and Future Research. Social Media + Society.
+
+===== Model + Machine + Bias =====
+Melissa D. McCradden, Shalmali Joshi, Mjaye Mazwi, James A. Anderson. (2020). Ethical limitations of algorithmic fairness solutions in health care machine learning. The Lancet Digital Health.
+Seong K. Mun, Kenneth H. Wong, Shih‐Chung B. Lo, Yanni Li, Shijir Bayarsaikhan. (2021). Artificial Intelligence for the Future Radiology Diagnostic Service. Frontiers in Molecular Biosciences.
+
+===== Data + Communication + Non =====
+Zili Lu, Heng Pan, Yueyue Dai, Xueming Si, Yan Zhang. (2024). Federated Learning With Non-IID Data: A Survey. IEEE Internet of Things Journal.
+Andreia Martinho, Maarten Kroesen, Caspar Chorus. (2021). A healthy debate: Exploring the views of medical doctors on the ethics of artificial intelligence. Artificial Intelligence in Medicine.
+
+===== Healthcare + Model + Decision =====
+Tanjim Mahmud, Koushick Barua, Sultana Umme Habiba, Nahed Sharmen, Mohammad Shahadat Hossain, Karl Andersson. (2024). An Explainable AI Paradigm for Alzheimer’s Diagnosis Using Deep Transfer Learning. Diagnostics.
+Sophie Kerstan, Nadine Bienefeld, Gudela Grote. (2023). Choosing human over AI doctors? How comparative trust associations and knowledge relate to risk and benefit perceptions of AI in healthcare. Risk Analysis.
+
+===== Metaverse + Healthcare + Virtual =====
+Ahmed Al Kuwaiti, Khalid Nazer, Abdullah H. Alreedy, Shaher D AlShehri, Afnan Almuhanna, Arun Vijay Subbarayalu, Dhoha Al Muhanna, Fahad Al‐Muhanna. (2023). A Review of the Role of Artificial Intelligence in Healthcare. Journal of Personalized Medicine.
+Kevin Pierre, Adam G. Haneberg, Sean Kwak, Keith Peters, Bruno Hochhegger, Thiparom Sananmuang, Padcha Tunlayadechanont, Patrick J. Tighe, Anthony Mancuso, Reza Forghani. (2023). Applications of Artificial Intelligence in the Radiology Roundtrip: Process Streamlining, Workflow Optimization, and Beyond. Seminars in Roentgenology.
+
+===== System + Intelligence + Artificial =====
+Syed Saqib Ali, Bong Jun Choi. (2020). State-of-the-Art Artificial Intelligence Techniques for Distributed Smart Grids: A Review. Electronics.
+Jiawang Xie, Yuzhi Zhao, Dezhi Zhu, Jianfeng Yan, Jiaqun Li, Ming Qiao, Guangzhi He, Shengfa Deng. (2023). A Machine Learning-Combined Flexible Sensor for Tactile Detection and Voice Recognition. ACS Applied Materials & Interfaces.
+
+===== Digital + Care + Technology =====
+Zhanna Novikov, Tal Katz–Navon. (2023). AI Implementation in Health Care: The Role of Trust, Managers’ Commitment, and Training. Academy of Management Proceedings.
+Johan Frishammar, Anna Essén, Frida Bergström, Tilda Ekman. (2023). Digital health platforms for the elderly? Key adoption and usage barriers and ways to address them. Technological Forecasting and Social Change.
+
+===== Abstract + Available + Dhl =====
+Carol Nash. (2020). Report on Digital Literacy in Academic Meetings during the 2020 COVID-19 Lockdown. Challenges.
+Rubeena Zakar, Sarosh Iqbal, Muhammad Zakria Zakar, Florian Fischer. (2021). COVID-19 and Health Information Seeking Behavior: Digital Health Literacy Survey Amongst University Students in Pakistan. Preprints.org.
+
+===== Patient + Communication + Digital =====
+Chukwudi Cosmos Maha, Tolulope Olagoke Kolawole, Samira Abdul. (2024). Revolutionizing community health literacy: The power of digital health tools in rural areas of the US and Africa. GSC Advanced Research and Reviews.
+D. Watson, Joshua Womack, Suzanne Papadakos. (2020). Rise of the Robots. Critical Care Nursing Quarterly.
+
+===== Healthcare + Iot + Data =====
+Adarsh Kumar, Rajalakshmi Krishnamurthi, Anand Nayyar, Kriti Sharma, Vinay Grover, Eklas Hossain. (2020). A Novel Smart Healthcare Design, Simulation, and Implementation Using Healthcare 4.0 Processes. IEEE Access.
+Sita Rani, Aman Kataria, Sachin Kumar, Prayag Tiwari. (2023). Federated learning for secure IoMT-applications in smart healthcare systems: A comprehensive review. Knowledge-Based Systems.
+
+===== Healthcare + Explanation + Artificial =====
+Aswathy Sreenivasan, M. Suresh. (2022). Future of healthcare start-ups in the era of digitalization: bibliometric analysis. International Journal of Industrial Engineering and Operations Management.
+Andreea M. Oprescu, G. Miró Amarante, Lutgardo García‐Díaz, Victoria E. Rey, Ángel Chimenea, Roxana Lina Martinez-Martinez, María del Carmen Romero Ternero. (2022). Towards a data collection methodology for Responsible Artificial Intelligence in health: A prospective and qualitative study in pregnancy. Information Fusion.
+
+===== Mental + Human + Interaction =====
+Justin B. Bullock, Matthew Young, Yifan Wang. (2020). Artificial intelligence, bureaucratic form, and discretion in public service. Information Polity.
+Bazghina‐werq Semo, Souci Frissa. (2020). &lt;p&gt;The Mental Health Impact of the COVID-19 Pandemic: Implications for Sub-Saharan Africa&lt;/p&gt;. Psychology Research and Behavior Management.
+
+===== Digital + Twin + System =====
+Abiola Akanmu, Chimay Anumba, Omobolanle Ogunseiju. (2021). Towards next generation cyber-physical systems and digital twins for construction. Journal of Information Technology in Construction.
+Abdullah Bin Sawad, Bhuva Narayan, Ahlam Alnefaie, Ashwaq Maqbool, Indra Mckie, Jemma Smith, Berkan Yuksel, Deepak Puthal, Mukesh Prasad, A. Baki Kocaballı. (2022). A Systematic Review on Healthcare Artificial Intelligent Conversational Agents for Chronic Conditions. Sensors.
+
+===== Literacy + Digital + Study =====
+Tessa Schulenkorf, Verena Krah, Kevin Dadaczynski, Orkan Okan. (2021). Addressing Health Literacy in Schools in Germany: Concept Analysis of the Mandatory Digital and Media Literacy School Curriculum. Frontiers in Public Health.
+Miguel Arriaga, Rita Francisco, Paulo Nogueira, Jorge Oliveira, Carlota Silva, Gisele Câmara, Kristine Sørensen, Christina Dietscher, Andreia Costa. (2022). Health Literacy in Portugal: Results of the Health Literacy Population Survey Project 2019–2021. International Journal of Environmental Research and Public Health.
+
+===== Healthcare + Patient + Data =====
+Tolulope Olorunsogo, Adekunle Oyeyemi Adenyi, Chioma Anthonia Okolo, Oloruntoba Babawarun. (2024). Ethical considerations in AI-enhanced medical decision support systems: A review. World Journal of Advanced Engineering Technology and Sciences.
+Chukwuka Elendu, Dependable C. Amaechi, Tochi C. Elendu, Klein A. Jingwa, Osinachi K. Okoye, Minichimso John Okah, John A. Ladele, Abdirahman H. Farah, Hameed A. Alimi. (2023). Ethical implications of AI and robotics in healthcare: A review. Medicine.
+
+===== Trust + User + Healthcare =====
+Anastasiya Kiseleva, Dimitris Kotzinos, Paul De Hert. (2022). Transparency of AI in Healthcare as a Multilayered System of Accountabilities: Between Legal Requirements and Technical Limitations. Frontiers in Artificial Intelligence.
+Steven Lockey, Nicole Gillespie, Caitlin Curtis. (2020). Trust in Artificial Intelligence: Australian Insights. Unknown Source.
+
+===== Data + System + Privacy =====
+Alex Pentland, Alexander Lipton, Thomas Hardjono. (2021). Building the New Economy. The MIT Press eBooks.
+Allan Peter Davis, Cynthia Grondin, Robin J. Johnson, Daniela Sciaky, Jolene Wiegers, Thomas C. Wiegers, Carolyn Mattingly. (2020). Comparative Toxicogenomics Database (CTD): update 2021. Nucleic Acids Research.
+
+===== Chatgpt + Language + Research =====
+Malik Sallam. (2023). ChatGPT Utility in Healthcare Education, Research, and Practice: Systematic Review on the Promising Perspectives and Valid Concerns. Healthcare.
+Malik Sallam. (2023). The Utility of ChatGPT as an Example of Large Language Models in Healthcare Education, Research and Practice: Systematic Review on the Future Perspectives and Potential Limitations. Unknown Source.
