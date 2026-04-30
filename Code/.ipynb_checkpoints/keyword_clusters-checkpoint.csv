@@ -1,0 +1,380 @@
+keyword,frequency,cluster
+computer science,1024,1
+health care,683,2
+medicine,620,0
+political science,526,0
+artificial intelligence,517,1
+law,502,0
+psychology,502,0
+economics,376,1
+economic growth,338,1
+data science,311,1
+knowledge management,262,1
+computer security,260,1
+engineering,239,1
+business,227,1
+pathology,224,0
+world wide web,216,0
+nursing,211,0
+operating system,188,1
+pedagogy,182,0
+biology,181,0
+digital health,170,0
+health literacy,170,0
+machine learning,158,0
+medical education,151,0
+literacy,140,0
+disease,139,0
+mathematics,129,1
+internet privacy,129,1
+public relations,127,0
+sociology,122,0
+philosophy,119,2
+infectious disease (medical specialty),118,0
+coronavirus disease 2019 (covid-19),118,0
+social psychology,110,0
+context (archaeology),102,3
+psychiatry,102,0
+environmental health,100,0
+psychological intervention,98,0
+paleontology,94,0
+public health,94,0
+human–computer interaction,94,1
+big data,92,0
+pandemic,92,0
+transparency (behavior),85,1
+the internet,83,0
+embedded system,81,1
+data mining,78,0
+physics,78,1
+engineering ethics,76,1
+programming language,71,1
+internal medicine,69,0
+population,68,0
+internet of things,68,1
+mental health,66,0
+medline,65,0
+telemedicine,63,0
+epistemology,62,1
+linguistics,61,0
+telecommunications,60,1
+wearable computer,60,1
+risk analysis (engineering),59,1
+cloud computing,58,1
+marketing,57,1
+social science,57,0
+digital literacy,55,0
+database,54,1
+quantum mechanics,50,0
+computer network,49,1
+applied psychology,48,0
+neuroscience,47,1
+mechanical engineering,47,1
+pure mathematics,45,1
+social media,45,0
+ehealth,44,0
+geography,44,0
+process (computing),44,1
+field (mathematics),44,1
+mathematical analysis,43,1
+blockchain,43,1
+archaeology,42,0
+alternative medicine,42,1
+applications of artificial intelligence,42,1
+wearable technology,41,1
+statistics,41,0
+gerontology,40,0
+family medicine,40,0
+deep learning,38,0
+management science,38,1
+electrical engineering,37,1
+finance,36,1
+software deployment,35,1
+quality (philosophy),35,1
+materials science,34,1
+workflow,34,1
+psychotherapist,33,0
+systematic review,32,0
+interpretability,31,1
+power (physics),31,0
+trustworthiness,31,1
+perception,31,1
+decision support system,29,1
+clinical psychology,29,0
+software engineering,29,1
+key (lock),29,1
+perspective (graphical),28,1
+bioinformatics,28,0
+chatbot,27,0
+wireless,27,1
+health informatics,27,0
+generative grammar,27,1
+robot,26,1
+severe acute respiratory syndrome coronavirus 2 (sars-cov-2),26,0
+government (linguistics),26,1
+nanotechnology,26,1
+information and communications technology,25,0
+transformative learning,25,1
+process management,25,1
+set (abstract data type),25,2
+chemistry,24,1
+reliability (semiconductor),24,0
+2019-20 coronavirus outbreak,24,0
+outbreak,24,0
+intensive care medicine,24,0
+domain (mathematical analysis),24,1
+curriculum,24,0
+scopus,24,0
+virology,24,0
+work (physics),23,1
+healthcare system,23,1
+health equity,23,0
+communication,23,0
+information privacy,23,1
+developmental psychology,23,0
+mhealth,23,0
+cross-sectional study,22,0
+clinical decision support system,21,1
+variety (cybernetics),21,1
+botany,21,0
+equity (law),21,0
+accountability,21,1
+cognitive psychology,20,2
+virtual reality,20,3
+digital divide,20,0
+art,20,0
+telehealth,20,0
+distributed computing,20,1
+precision medicine,20,0
+autonomy,19,1
+artificial neural network,19,1
+information literacy,19,0
+identification (biology),18,0
+health professionals,18,2
+leverage (statistics),18,0
+genetics,18,0
+qualitative research,18,0
+systems engineering,18,1
+ecology,18,0
+algorithm,18,1
+data sharing,17,1
+multimedia,17,2
+biochemistry,17,0
+analytics,17,1
+metaverse,17,3
+library science,17,0
+scale (ratio),17,0
+intervention (counseling),17,0
+history,16,0
+corporate governance,16,1
+demography,16,0
+structural equation modeling,16,0
+composite material,16,1
+mathematics education,16,0
+health communication,16,0
+scalability,16,1
+cinahl,15,0
+black box,15,1
+medical emergency,15,0
+gene,15,0
+service (business),15,1
+digital transformation,15,1
+authentication (law),14,1
+optics,14,1
+health education,14,0
+confidentiality,14,1
+radiology,14,1
+anxiety,14,0
+encryption,14,1
+cognition,14,0
+politics,14,0
+macroeconomics,14,1
+edge computing,14,1
+inclusion (mineral),14,0
+value (mathematics),14,2
+visual arts,13,0
+usability,13,0
+emerging technologies,13,1
+misinformation,13,0
+management,13,1
+health promotion,12,0
+popularity,12,1
+personalized medicine,12,0
+thematic analysis,12,0
+workforce,12,0
+test (biology),12,0
+electronics,12,1
+health policy,12,0
+relevance (law),12,1
+social distance,12,0
+patient safety,11,1
+clinical trial,11,2
+geometry,11,1
+physical therapy,11,0
+medical diagnosis,11,2
+decision tree,11,0
+automation,11,1
+protocol (science),11,2
+health information,11,0
+enhanced data rates for gsm evolution,11,1
+scope (computer science),11,1
+psychometrics,10,0
+checklist,10,2
+healthcare industry,10,1
+digital media,10,0
+information seeking,10,0
+natural language processing,10,2
+multidisciplinary approach,10,1
+personalization,10,1
+aerospace engineering,10,1
+engineering management,10,1
+flexibility (engineering),10,1
+support vector machine,10,1
+cognitive science,9,1
+maximum bubble pressure method,9,1
+industry 4.0,9,1
+resource (disambiguation),9,3
+bubble,9,1
+mental illness,9,0
+cyber-physical system,9,1
+smart city,9,1
+operations management,9,1
+narrative,9,0
+interface (matter),9,1
+computational biology,9,0
+robotics,9,1
+conversation,9,0
+delphi method,9,2
+surgery,9,0
+information seeking behavior,9,0
+affect (linguistics),9,0
+sustainability,9,1
+harm,8,1
+architecture,8,1
+voltage,8,1
+empathy,8,1
+meta-analysis,8,0
+intrusion detection system,8,1
+random forest,8,1
+productivity,8,1
+interoperability,8,1
+parallel computing,8,1
+cryptography,8,1
+convolutional neural network,8,1
+empowerment,8,0
+focus (optics),8,1
+data collection,8,0
+bridge (graph theory),8,1
+immunology,8,0
+mediation,8,0
+china,8,0
+order (exchange),8,1
+accounting,8,1
+medical physics,8,1
+pharmacology,8,0
+descriptive statistics,8,0
+inequality,8,0
+psycinfo,8,0
+competence (human resources),8,0
+stakeholder,8,0
+mental healthcare,7,1
+reliability engineering,7,1
+server,7,1
+documentation,7,1
+safeguarding,7,1
+generalizability theory,7,0
+environmental science,7,0
+modalities,7,0
+wireless sensor network,7,1
+wireless network,7,1
+anthropology,7,0
+drug,7,0
+literature,7,0
+diabetes mellitus,7,0
+cancer,7,0
+interpersonal communication,7,0
+endocrinology,7,0
+cartography,7,0
+biostatistics,7,0
+health information national trends survey,7,0
+health records,7,1
+task (project management),7,1
+cronbach's alpha,7,0
+construct validity,7,0
+socioeconomic status,7,0
+logistic regression,7,0
+confirmatory factor analysis,7,0
+optoelectronics,7,1
+augmented reality,6,3
+digital revolution,6,1
+electronic skin,6,1
+single point of failure,6,1
+thermodynamics,6,1
+grey literature,6,0
+reinforcement learning,6,1
+tactile sensor,6,1
+vaccination,6,0
+autism,6,0
+ethical issues,6,1
+social determinants of health,6,0
+mental health literacy,6,0
+structural engineering,6,1
+robustness (evolution),6,1
+audit,6,1
+traceability,6,1
+microeconomics,6,1
+microbiology,6,0
+supply chain,6,1
+guideline,6,2
+pressure sensor,6,1
+mechanism (biology),6,2
+digitization,6,1
+empirical research,6,2
+terminology,6,1
+federated learning,6,1
+transformer,6,1
+randomized controlled trial,6,0
+advertising,6,0
+focus group,5,0
+triboelectric effect,5,1
+human intelligence,5,1
+function (biology),5,1
+geology,5,1
+mobile device,5,1
+natural (archaeology),5,2
+space (punctuation),5,1
+population health,5,0
+pregnancy,5,0
+conceptual framework,5,0
+distrust,5,1
+data quality,5,1
+depression (economics),5,2
+media studies,5,0
+expectancy theory,5,0
+data governance,5,1
+best practice,5,1
+breast cancer,5,0
+digital library,5,0
+promotion (chess),5,0
+health technology,5,1
+drone,5,1
+evolutionary biology,5,2
+odds ratio,5,0
+face (sociological concept),5,2
+autism spectrum disorder,5,0
+reading (process),5,0
+action (physics),5,0
+medical imaging,5,1
+liability,5,1
+disadvantaged,5,0
+healthcare service,5,1
+standardization,5,1
+global health,5,0
+globe,5,0
+safer,5,1
+energy (signal processing),5,1
+cardiology,5,1
+classifier (uml),5,1
+triage,5,0
+dissemination,5,0
+preparedness,5,0
